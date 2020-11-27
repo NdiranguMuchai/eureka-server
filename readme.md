@@ -1,6 +1,6 @@
 # Eureka Server
 
-[![NdiranguMuchai](https://circleci.com/gh/ndirangumuchai/eureka-server.svg?style=svg)](https://app.circleci.com/pipelines/github/NdiranguMuchai/eureka-server)
+[![NdiranguMuchai](https://circleci.com/gh/ndirangumuchai/eureka-server.svg?style=svg&circle-token=799182469e7e160162654dd6c04765fbeb344a6d)](https://app.circleci.com/pipelines/github/NdiranguMuchai/eureka-server)
 
 
 This is a server for registration and discovery of services in the microservice architecture.
