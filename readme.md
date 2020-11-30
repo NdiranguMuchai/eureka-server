@@ -42,3 +42,7 @@ to run eureka i.e either by building a `jar` or using the `Maven` plugin.
 Once the services are running you can confirm their successful registration on the eureka server
 
 <img width="1042" alt="eureka-server" src="https://cloud.githubusercontent.com/assets/838318/19727082/2aee6d6c-9b8e-11e6-81fe-e889a5ddfded.png">
+
+### Service Interaction
+* `Item catalogue` displays a list of several sports items in `Json` on http://localhost:2222/items
+* `Edge service` then filters through the list of items on `Item catalogue` and chooses a select few top brands only if `Item catalogue` service is running and returns a list in `Json` on http://localhost:1103/top-brands
