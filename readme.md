@@ -1,7 +1,7 @@
 
 # Eureka Server
 
-This is a server for registration and discovery of services in the microservice architecture.
+This is a server for registration and discovery of services in the [microservice](https://microservices.io/) architecture.
 
 ## Running Eureka locally
 Eureka server is a [Spring Boot](https://spring.io/guides/gs/spring-boot) application built using [Maven](https://spring.io/guides/gs/maven/). You can build a jar file and run it from the command line:
