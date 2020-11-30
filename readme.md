@@ -1,9 +1,3 @@
-### To do 
-* What is a eureka server
-* services registered
-* How the eureka page looks like
-* How the services interact 
-* Links to the services
 
 # Eureka Server
 
@@ -33,8 +27,8 @@ Or you can run it from Maven directly using the Spring Boot Maven plugin. If you
 ### Services registrered
 Two services have been registered to the architecture
 
-* [Item catalogue](https://github.com/NdiranguMuchai/item-catalogue) running on port 2222
-* [Edge service](https://github.com/NdiranguMuchai/edge-service) running on port 1103
+* [Item catalogue](https://github.com/NdiranguMuchai/item-catalogue) running on port `2222`
+* [Edge service](https://github.com/NdiranguMuchai/edge-service) running on port `1103`
 
 Use the same commands to run the services as the one you used 
 to run eureka i.e either by building a `jar` or using the `Maven` plugin.
