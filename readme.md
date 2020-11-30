@@ -33,7 +33,7 @@ Two services have been registered to the architecture
 Use the same commands to run the services as the one you used 
 to run eureka i.e either by building a `jar` or using the `Maven` plugin.
 
-Once the services are running you can confirm their successful registration on the eureka server
+Once the services are running you can confirm their successful registration on the `eureka` server
 
 <img width="1042" alt="eureka-server" src="https://cloud.githubusercontent.com/assets/838318/19727082/2aee6d6c-9b8e-11e6-81fe-e889a5ddfded.png">
 
