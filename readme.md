@@ -16,7 +16,7 @@ java -jar target/*.jar
 
 You can then access `eureka` here: http://localhost:8761/
 
-<img width="1042" alt="eureka-server" src="https://cloud.githubusercontent.com/assets/838318/19727082/2aee6d6c-9b8e-11e6-81fe-e889a5ddfded.png">
+<img width="1042" alt="eureka-server" src="https://user-images.githubusercontent.com/47880944/101527785-804c4f00-399f-11eb-9df2-937584a3d3e0.png">
 
 Or you can run it from Maven directly using the Spring Boot Maven plugin. If you do this it will pick up changes that you make in the project immediately (changes to Java source files require a compile as well - most people use an IDE for this):
 
@@ -35,7 +35,7 @@ to run eureka i.e either by building a `jar` or using the `Maven` plugin.
 
 Once the services are running you can confirm their successful registration on the `eureka` server
 
-<img width="1042" alt="eureka-server" src="https://cloud.githubusercontent.com/assets/838318/19727082/2aee6d6c-9b8e-11e6-81fe-e889a5ddfded.png">
+<img width="1042" alt="eureka-server" src="https://user-images.githubusercontent.com/47880944/101528053-d4efca00-399f-11eb-8fef-1b9e86686017.png">
 
 ### Service Interaction
 * `Item catalogue` displays a list of several sports items in `Json` on http://localhost:2222/items
